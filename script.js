@@ -1,1 +1,105 @@
+console.log("This page is running, please standby for errors and any other alerts.");
 
+let time = new Date().toLocaleTimeString();
+  const canvas = document.getElementById("MainScreen");
+ const ctx = canvas.getContext("2d");
+ctx.fillStyle = "white";
+ ctx.font = "30px serif";
+ctx.fillText("The time is currently " + time + " .");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log("Thank you for waiting. The script is now compiled and running.");
